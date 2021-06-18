@@ -22,6 +22,7 @@ public:
 
 int main() {
 	
+	// Test code
 	DynamicArray test;
 	test.append(1);
 	test.append(1);
