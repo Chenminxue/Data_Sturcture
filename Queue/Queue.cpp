@@ -9,8 +9,6 @@ public:
 
 	void deQueue();
 
-	void peek();
-
 	void display();
 };
 
@@ -45,11 +43,6 @@ void Queue::deQueue() {
 		q1.clear();
 		q1 = temp;
 	}
-}
-
-void Queue::peek() {
-
-
 }
 
 void Queue::display() {
